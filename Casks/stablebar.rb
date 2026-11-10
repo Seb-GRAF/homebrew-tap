@@ -1,6 +1,6 @@
 cask "stablebar" do
-  version "0.11.0"
-  sha256 "8c5386e06bb513f217dd91794837c03cc6acb4f663356d2528d22c502e054ab4"
+  version "0.12.0"
+  sha256 "ec9605e1a90e7fcecc1944db408db6c3300ec8b62513ab216b0cd6d01e68960b"
 
   url "https://github.com/Seb-GRAF/StableBar/releases/download/v#{version}/StableBar.dmg"
   name "StableBar"
