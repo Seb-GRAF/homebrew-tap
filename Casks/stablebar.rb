@@ -1,6 +1,6 @@
 cask "stablebar" do
-  version "0.17.0"
-  sha256 "56654039236c0e24127554ae9766c9f797662dd7ea60271b008be59511157c3a"
+  version "0.18.0"
+  sha256 "280476b9417bd9181484908c9557f537cda4f867dd3c3ae2d22b0ba3895edc16"
 
   url "https://github.com/stablebox/StableBar/releases/download/v#{version}/StableBar.dmg"
   name "StableBar"
